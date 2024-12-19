@@ -8,6 +8,8 @@ A semester project (ERP) using Java and MySql
 
 -> Now start XAMPP and run Apache with MySql.
 
+-> Now go to web http://localhost/phpmyadmin and then create a database name erp after creating database in phpmyadmin follow next step.
+
 -> Now go to source package then in (dao) folder go to table file then uncomment all the lines which are commented then run the table file once, recomment those lines after running the file.
 
 -> Then run the project and login by entering (admin) both in Id & password.
